@@ -1,0 +1,356 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif !important;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.btn {
+  background-color: #cf4520;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff !important;
+  color: #000;
+}
+
+.fa {
+  font-family: "FontAwesome" !important;
+}
+
+/* NAVBAR START */
+/* ======================================================================== */
+
+.navbar {
+  background-color: #e5ded4;
+}
+
+.btn-primary {
+  background-color: #cf4520;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+.nav-item {
+  color: #000 !important;
+  font-weight: 600 !important;
+}
+
+.nav-item:hover {
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+#nav-space {
+  width: 40vw;
+  height: 50px;
+}
+
+/* NAVBAR END */
+
+.section-space {
+  width: 100%;
+  height: 5vw;
+}
+
+/* SEVA START */
+/* =============================================================================== */
+h2 {
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.seva1,
+.seva2,
+.seva3,
+.seva4,
+.seva5,
+.seva6,
+.seva7 {
+  width: 80vw;
+  /* background-color: #cf4520; */
+  height: 400px;
+  margin: auto;
+}
+
+.seva-img {
+  border-radius: 25px;
+}
+
+.seva-details {
+  width: 500px;
+  height: 300px;
+  background-color: #e5ded4;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 25px 0 25px 0;
+}
+/* SEVA END */
+
+/* VIP START */
+/* ======================================================================= */
+
+.vip-section {
+  display: flex;
+  justify-content: center;
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.vip-section img {
+  padding: 1vw;
+  border-radius: 20px;
+}
+
+/* VIP END */
+
+/* PRODUCT SECTION START */
+/* ============================================================================ */
+
+.product-section {
+  /* background-color: aqua; */
+  height: 70vh;
+}
+
+.product-title {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-title h2 {
+  font-size: 5em;
+  color: #cf4520;
+}
+
+.product-details .product-property1,
+.product-details .product-property2,
+.product-details .product-property3,
+.product-details .product-property4 {
+  width: 50%;
+  float: left;
+  /* background-color: #e5ded4; */
+  padding: 20px;
+}
+
+.fa-droplet,
+.fa-seedling,
+.fa-flask,
+.fa-industry {
+  font-size: 2em;
+  color: #cf4520;
+}
+
+.prodct-card {
+  border: 2px solid gray;
+  border-radius: 25px;
+  margin: 0 20px;
+}
+
+.prodct-card img {
+  width: 100%;
+  margin: 5px;
+}
+
+#product-title {
+  font-weight: 800;
+}
+
+.price {
+  display: flex;
+  justify-content: space-around;
+}
+
+.price p:nth-child(1) {
+  text-decoration: line-through;
+}
+
+.price p:nth-child(2) {
+  color: green;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttons button {
+  margin: 5px;
+  border-radius: 10px;
+  border: 2px solid #fff;
+  font-weight: 500;
+  transition: all 300ms;
+}
+
+.buttons button:nth-child(1) {
+  background-color: #e5ded4;
+  color: #000;
+}
+.buttons button:nth-child(1):hover {
+  background-color: #fff;
+  color: gray;
+  border: 2px solid gray;
+}
+
+.buttons button:nth-child(2) {
+  background-color: #cf4520;
+  color: #fff;
+}
+.buttons button:nth-child(2):hover {
+  background-color: #fff;
+  color: #cf4520;
+  border: 2px solid #cf4520;
+}
+
+.prodct-card:nth-last-child(1) {
+  border-radius: 50%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #e5ded4;
+  cursor: pointer;
+  border: none;
+  transition: all 500ms;
+}
+
+.products-row {
+  display: flex;
+  align-items: center;
+}
+
+.fa-chevron-right {
+  font-size: 30px;
+}
+
+.prodct-card:nth-last-child(1):hover {
+  background-color: #cf4520;
+  color: #fff;
+}
+
+/* PRODUCT SECTION END */
+
+/* VIDEO SLIDER START */
+/* ///////////////////////////////////////////////////////////////////////////// */
+.carousel-cell {
+  width: 100%;
+}
+
+/* cell number */
+.carousel-cell:before {
+  display: block;
+}
+
+.side-videos iframe {
+  height: 50%;
+  width: 50% !important;
+  margin-top: 15%;
+  opacity: 0.5;
+  margin-left: 25%;
+}
+/* VIDEO SLIDER END */
+
+/* MOTIVATION SLIDER START */
+/* ///////////////////////////////////////////////////////////////////////////// */
+
+marquee img {
+  width: 300px;
+  height: 300px;
+}
+
+/* MOTIVATION SLIDER END */
+
+.kathaVid {
+  margin: 0 10%;
+}
+
+#blackArrow {
+  color: #000 !important;
+}
+
+.donateSection {
+  background-color: #e5ded4 !important;
+  width: 50%;
+  margin: auto;
+  display: flex;
+  font-size: 26px;
+  justify-content: space-between;
+}
+
+/* SOCIAL MEDIA START */
+/* ///////////////////////////////////////////////////////////////////////////// */
+
+.social-icons {
+  width: 100%;
+  height: 10vh;
+  background-color: #e5ded4;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#social-share {
+  margin: 0 100px;
+}
+
+.social-icons a img {
+  height: 7vh;
+}
+
+/* SOCIAL MEDIA END */
+
+/* FOOTER START */
+/* ///////////////////////////////////////////////////////////////////////////// */
+
+.footer {
+  background-color: gray;
+  width: 100%;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-part {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* justify-content: center; */
+  margin: 50px;
+  color: #fff;
+}
+
+.footer-part h2 {
+  margin: 30px;
+}
+
+.copyright {
+  background-color: #9a9fad;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+}
+
+/* FOOTER END */

@@ -1,0 +1,57 @@
+[02-Dec-2022 03:20:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/tarun/Admin/productmanage.php on line 81
+[02-Dec-2022 03:22:16 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 82
+[02-Dec-2022 03:22:16 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 88
+[02-Dec-2022 03:22:16 America/New_York] PHP Notice:  Undefined index: cat_name in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 96
+[02-Dec-2022 03:22:16 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 82
+[02-Dec-2022 03:22:16 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 88
+[02-Dec-2022 03:22:16 America/New_York] PHP Notice:  Undefined index: cat_name in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 96
+[02-Dec-2022 03:22:49 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 82
+[02-Dec-2022 03:22:49 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 88
+[02-Dec-2022 03:22:49 America/New_York] PHP Notice:  Undefined index: cat_name in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 96
+[02-Dec-2022 03:22:49 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 82
+[02-Dec-2022 03:22:49 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 88
+[02-Dec-2022 03:22:49 America/New_York] PHP Notice:  Undefined index: cat_name in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 96
+[02-Dec-2022 03:22:54 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 82
+[02-Dec-2022 03:22:54 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 88
+[02-Dec-2022 03:22:54 America/New_York] PHP Notice:  Undefined index: cat_name in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 96
+[02-Dec-2022 03:22:54 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 82
+[02-Dec-2022 03:22:54 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 88
+[02-Dec-2022 03:22:54 America/New_York] PHP Notice:  Undefined index: cat_name in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 96
+[02-Dec-2022 03:23:39 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[02-Dec-2022 03:23:39 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[02-Dec-2022 03:23:39 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[02-Dec-2022 03:23:39 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 04:14:52 America/New_York] PHP Notice:  Undefined index: order_id in /home/vysoxnyu/public_html/tarun/Admin/donation.php on line 74
+[03-Dec-2022 04:16:54 America/New_York] PHP Notice:  Undefined index: order_id in /home/vysoxnyu/public_html/tarun/Admin/donation.php on line 74
+[03-Dec-2022 04:17:05 America/New_York] PHP Notice:  Undefined index: order_id in /home/vysoxnyu/public_html/tarun/Admin/donation.php on line 74
+[03-Dec-2022 04:19:53 America/New_York] PHP Notice:  Undefined variable: sub_cat_name in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 40
+[03-Dec-2022 04:19:53 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 42
+[03-Dec-2022 04:19:53 America/New_York] PHP Notice:  Undefined variable: cat_code in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 44
+[03-Dec-2022 04:19:53 America/New_York] PHP Notice:  Undefined variable: cat_name in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 46
+[03-Dec-2022 04:19:53 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 48
+[03-Dec-2022 04:19:53 America/New_York] PHP Notice:  Undefined variable: main_cat_code in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 50
+[03-Dec-2022 04:20:22 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[03-Dec-2022 04:20:22 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 04:20:22 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[03-Dec-2022 04:20:22 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 04:25:29 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[03-Dec-2022 04:25:29 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 04:25:29 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[03-Dec-2022 04:25:29 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 04:25:50 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vysoxnyu/public_html/tarun/Admin/header.php:1) in /home/vysoxnyu/public_html/tarun/Admin/order_u.php on line 28
+[03-Dec-2022 04:27:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vysoxnyu/public_html/tarun/Admin/header.php:1) in /home/vysoxnyu/public_html/tarun/Admin/order_u.php on line 28
+[03-Dec-2022 04:34:12 America/New_York] PHP Notice:  Undefined variable: sub_cat_name in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 40
+[03-Dec-2022 04:34:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 42
+[03-Dec-2022 04:34:12 America/New_York] PHP Notice:  Undefined variable: cat_code in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 44
+[03-Dec-2022 04:34:12 America/New_York] PHP Notice:  Undefined variable: cat_name in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 46
+[03-Dec-2022 04:34:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 48
+[03-Dec-2022 04:34:12 America/New_York] PHP Notice:  Undefined variable: main_cat_code in /home/vysoxnyu/public_html/tarun/Admin/product_edit.php on line 50
+[03-Dec-2022 04:34:39 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[03-Dec-2022 04:34:39 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 04:34:39 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[03-Dec-2022 04:34:39 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 04:36:04 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[03-Dec-2022 04:36:04 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 04:36:04 America/New_York] PHP Notice:  Undefined index: size in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 78
+[03-Dec-2022 04:36:04 America/New_York] PHP Notice:  Undefined index: sub_cat_sno in /home/vysoxnyu/public_html/tarun/Admin/order_p.php on line 84
+[03-Dec-2022 07:53:05 America/New_York] PHP Notice:  Undefined index: username in /home/vysoxnyu/public_html/tarun/Admin/order.php on line 9
